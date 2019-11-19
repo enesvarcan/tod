@@ -12,7 +12,7 @@ WINDOW_HEIGHT = 200
 WINDOW_WIDTH = 400
 DARK_ORANGE = "#FF8C00"
 
-ABOUT = """"""
+ABOUT = """A tool for postpone restarts and shutdowns"""
 HELP = """"""
 
 
